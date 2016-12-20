@@ -14,13 +14,8 @@
 
 **Video results:**
 
-![white]
-(white.gif)
-
-<img src="white.gif" width="48">
-
-![yellow]
-(yellow.gif)
+<img src="white.gif" width="300">
+<img src="yellow.gif" width="300">
 
 
 ## Comments: 
