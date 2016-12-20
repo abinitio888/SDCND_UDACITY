@@ -17,6 +17,8 @@
 ![white]
 (white.gif)
 
+<img src="white.gif" width="48">
+
 ![yellow]
 (yellow.gif)
 
