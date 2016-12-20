@@ -31,4 +31,4 @@ The current pipeline works reasonably well on the 'White' and 'Yellow' videos. H
 * The tree shadow affects strongly the Canny edge detection, i.e the gradient.
 * One possible solution is to use cv2.inRange() to map out the yellow.
 * The large curves could be fitted with polynomial models instead of linear
-models."
+models.
